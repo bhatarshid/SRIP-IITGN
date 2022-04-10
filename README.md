@@ -1,5 +1,7 @@
 # SRIP-IITGN
 
+# **Implement two hidden layers neural network classifier from scratch in JAX **
+
 We will start by defining a simple PyTorch MNIST dataloader and afterwards set everything up to train. We will need the following functions to train a NN:
   1. A function that initializes the neural networks weights and returns a list of layer-specific parameters.
   2. A function that performs a forward pass through the network (e.g. by loop over the layers).
